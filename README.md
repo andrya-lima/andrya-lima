@@ -1,6 +1,6 @@
-## Hi there 👋
-
 # :paperclip: Welcome to my GitHub 🚀
+
+## Hi there 👋
 
 ## 👩‍💻 About Me
 - :pushpin: Ontario, Canada CA.
