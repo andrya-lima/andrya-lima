@@ -19,7 +19,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
-### 💻 Development
+### :loop: Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
@@ -39,15 +39,24 @@
 ### 🖥️ Operational Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+
 
 ### ☁️ Cloud
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-### 🖥️ Virtualization
+### :satellite: Virtualization
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=flat&logo=microsoft&logoColor=white)
+
+### 🛠 IDE and Editors
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
 ### 🎨 Design Tools
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
